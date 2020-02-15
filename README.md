@@ -1,6 +1,6 @@
 # Slate Red
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Enabled-orange.svg)](https://github.com/custom-components/hacs)
+[![hacs_badge](https://img.shields.io/badge/HACS-default-orange.svg)](https://github.com/custom-components/hacs)
 
 My red"isch" variant of the [slate theme](https://github.com/seangreen2/slate_theme).
 
