@@ -8,9 +8,8 @@ My red"isch" variant of the [slate theme](https://github.com/seangreen2/slate_th
 
 ### Home Assistant Community Store
 
-Install it in the `themes` tab on the Home Asssistant Community Store.
+Install it in the `Frontend` section of the Home Asssistant Community Store.
 
-__Your Home Assistant configuration must include the `themes:` setting!__
 
 ### Manual
 
@@ -35,3 +34,5 @@ Restart Home Assistant and select your theme by clicking on your user's profile 
 
 ![Lovelace](https://raw.githubusercontent.com/Poeschl/slate_red/master/assets/settings.png)
 
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23d32f2f?logo=buy-me-a-coffee&style=for-the-badge&logoColor=white)](https://www.buymeacoffee.com/Poeschl)
