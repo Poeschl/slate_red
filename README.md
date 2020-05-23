@@ -30,9 +30,11 @@ Restart Home Assistant and select your theme by clicking on your user's profile 
 
 ![Lovelace](https://raw.githubusercontent.com/Poeschl/slate_red/master/assets/lovelace2.png)
 
-![Lovelace](https://raw.githubusercontent.com/Poeschl/slate_red/master/assets/devtools.png)
+![Lovelace](https://raw.githubusercontent.com/Poeschl/slate_red/master/assets/integrations.png)
 
 ![Lovelace](https://raw.githubusercontent.com/Poeschl/slate_red/master/assets/settings.png)
+
+![Lovelace](https://raw.githubusercontent.com/Poeschl/slate_red/master/assets/devtools.png)
 
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%23d32f2f?logo=buy-me-a-coffee&style=for-the-badge&logoColor=white)](https://www.buymeacoffee.com/Poeschl)
